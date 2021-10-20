@@ -23,7 +23,7 @@ telegraph
 speedtest-cli
 coffeehouse
 cachetools
-google_trans_new
+gpytranslate 
 regex
 redis
 bleach
