@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [🙋](https://telegra.ph/file/74c9e96d7a1b9075efaa5.jpg) `My name is` *Gabi Braun*
+`Hey There!` [🙋](https://telegra.ph/file/74c9e96d7a1b9075efaa5.jpg) `My name is` *L Lawliet*
 `I am an Anime Themed group management bot.
 Build by in partnership and managed by` Ryuk [@Weeb_lover] `for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
