@@ -19,7 +19,7 @@ Pillow>=4.2.0
 CurrencyConverter
 googletrans
 jikanpy 
-telegragh 
+telegraph
 speedtest-cli
 coffeehouse
 cachetools
