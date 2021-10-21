@@ -70,7 +70,7 @@ buttons = [
      
     ],
     [     InlineKeyboardButton(
-            text="F.B.I Fed Log", url="https://telegram.dog/"),
+            text="F.B.I Fed Log", url="https://t.me/lawliet_federation_logs"),
     
     ],
     [
